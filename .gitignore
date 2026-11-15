@@ -1,0 +1,5 @@
+# macOS
+.DS_Store
+
+# Local-only: the original single-file version, kept for comparison
+greenmind-reference.html
