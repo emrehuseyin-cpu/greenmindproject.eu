@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 120" role="img" aria-label="GreenYOUnion e.V. logo">
+  <!-- Mark: interlocking leaf + community circle -->
+  <g transform="translate(14, 14)">
+    <circle cx="46" cy="46" r="42" fill="#D6F0DD" stroke="#1F6E49" stroke-width="2.5"/>
+    <circle cx="46" cy="46" r="32" fill="none" stroke="#2F9163" stroke-width="1.8" stroke-dasharray="4 4"/>
+    <!-- Leaf + people sprout -->
+    <path d="M30 56c0-16 11-26 30-26 0 16-11 26-30 26z" fill="#2F9163" stroke="#1F342B" stroke-width="2.2" stroke-linejoin="round"/>
+    <path d="M30 56l16-14" fill="none" stroke="#1F342B" stroke-width="2.2" stroke-linecap="round"/>
+    <circle cx="34" cy="32" r="5" fill="#1F342B"/>
+    <path d="M24 46c2-5 6-8 11-8" fill="none" stroke="#1F342B" stroke-width="2.2" stroke-linecap="round"/>
+  </g>
+  <!-- Wordmark -->
+  <g font-family="'Fraunces', Georgia, serif" fill="#1F342B">
+    <text x="116" y="58" font-size="31" font-weight="700" letter-spacing="-0.5">
+      <tspan fill="#1F6E49">Green</tspan><tspan fill="#1F342B">YOU</tspan><tspan fill="#2F9163" font-weight="600">nion</tspan>
+    </text>
+  </g>
+  <g font-family="'DM Sans', system-ui, sans-serif">
+    <line x1="116" y1="69" x2="342" y2="69" stroke="#A8DBB8" stroke-width="2"/>
+    <text x="116" y="88" font-size="13.5" font-weight="700" fill="#52675C" letter-spacing="2.2">BONN · E.V.</text>
+  </g>
+</svg>

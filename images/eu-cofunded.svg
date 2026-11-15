@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 72" role="img" aria-label="Co-funded by the European Union">
+  <!-- EU Flag (3:2 ratio -> 96x64) -->
+  <g transform="translate(4, 4)">
+    <rect width="96" height="64" rx="2" fill="#003399"/>
+    <g transform="translate(48, 32)" fill="#FFCC00">
+      <g id="s">
+        <polygon points="0,-4.2 1.0,-1.3 4.0,-1.3 1.6,0.5 2.5,3.4 0,1.6 -2.5,3.4 -1.6,0.5 -4.0,-1.3 -1.0,-1.3" transform="translate(0, -21.3)"/>
+      </g>
+      <g transform="rotate(30)"><polygon points="0,-4.2 1.0,-1.3 4.0,-1.3 1.6,0.5 2.5,3.4 0,1.6 -2.5,3.4 -1.6,0.5 -4.0,-1.3 -1.0,-1.3" transform="translate(0, -21.3) rotate(-30)"/></g>
+      <g transform="rotate(60)"><polygon points="0,-4.2 1.0,-1.3 4.0,-1.3 1.6,0.5 2.5,3.4 0,1.6 -2.5,3.4 -1.6,0.5 -4.0,-1.3 -1.0,-1.3" transform="translate(0, -21.3) rotate(-60)"/></g>
+      <g transform="rotate(90)"><polygon points="0,-4.2 1.0,-1.3 4.0,-1.3 1.6,0.5 2.5,3.4 0,1.6 -2.5,3.4 -1.6,0.5 -4.0,-1.3 -1.0,-1.3" transform="translate(0, -21.3) rotate(-90)"/></g>
+      <g transform="rotate(120)"><polygon points="0,-4.2 1.0,-1.3 4.0,-1.3 1.6,0.5 2.5,3.4 0,1.6 -2.5,3.4 -1.6,0.5 -4.0,-1.3 -1.0,-1.3" transform="translate(0, -21.3) rotate(-120)"/></g>
+      <g transform="rotate(150)"><polygon points="0,-4.2 1.0,-1.3 4.0,-1.3 1.6,0.5 2.5,3.4 0,1.6 -2.5,3.4 -1.6,0.5 -4.0,-1.3 -1.0,-1.3" transform="translate(0, -21.3) rotate(-150)"/></g>
+      <g transform="rotate(180)"><polygon points="0,-4.2 1.0,-1.3 4.0,-1.3 1.6,0.5 2.5,3.4 0,1.6 -2.5,3.4 -1.6,0.5 -4.0,-1.3 -1.0,-1.3" transform="translate(0, -21.3) rotate(-180)"/></g>
+      <g transform="rotate(210)"><polygon points="0,-4.2 1.0,-1.3 4.0,-1.3 1.6,0.5 2.5,3.4 0,1.6 -2.5,3.4 -1.6,0.5 -4.0,-1.3 -1.0,-1.3" transform="translate(0, -21.3) rotate(-210)"/></g>
+      <g transform="rotate(240)"><polygon points="0,-4.2 1.0,-1.3 4.0,-1.3 1.6,0.5 2.5,3.4 0,1.6 -2.5,3.4 -1.6,0.5 -4.0,-1.3 -1.0,-1.3" transform="translate(0, -21.3) rotate(-240)"/></g>
+      <g transform="rotate(270)"><polygon points="0,-4.2 1.0,-1.3 4.0,-1.3 1.6,0.5 2.5,3.4 0,1.6 -2.5,3.4 -1.6,0.5 -4.0,-1.3 -1.0,-1.3" transform="translate(0, -21.3) rotate(-270)"/></g>
+      <g transform="rotate(300)"><polygon points="0,-4.2 1.0,-1.3 4.0,-1.3 1.6,0.5 2.5,3.4 0,1.6 -2.5,3.4 -1.6,0.5 -4.0,-1.3 -1.0,-1.3" transform="translate(0, -21.3) rotate(-300)"/></g>
+      <g transform="rotate(330)"><polygon points="0,-4.2 1.0,-1.3 4.0,-1.3 1.6,0.5 2.5,3.4 0,1.6 -2.5,3.4 -1.6,0.5 -4.0,-1.3 -1.0,-1.3" transform="translate(0, -21.3) rotate(-330)"/></g>
+    </g>
+  </g>
+  <!-- Official horizontal text emblem -->
+  <g font-family="Arial, 'Helvetica Neue', Helvetica, sans-serif" fill="#003399">
+    <text x="114" y="32" font-size="18" font-weight="700">Co-funded by</text>
+    <text x="114" y="53" font-size="18" font-weight="700">the European Union</text>
+  </g>
+</svg>

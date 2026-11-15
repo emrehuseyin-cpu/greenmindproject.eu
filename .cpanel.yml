@@ -5,10 +5,8 @@
 # Only the website files are copied; README, .gitignore and this file stay out of the web folder.
 #
 # DEPLOYPATH must be the document root of greenmindproject.eu.
-# Check it in cPanel -> Domains. If the domain shows a different document root
-# (for example /home/USER/greenmindproject.eu), change the line below to match.
 deployment:
   tasks:
     - export DEPLOYPATH=$HOME/public_html/
     - /bin/mkdir -p $DEPLOYPATH
-    - /bin/cp -R index.html favicon.svg og-image.png css js $DEPLOYPATH
+    - /bin/cp -R index.html site.html favicon.svg og-image.png css js images $DEPLOYPATH
